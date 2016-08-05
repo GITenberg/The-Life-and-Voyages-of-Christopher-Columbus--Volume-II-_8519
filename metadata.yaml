@@ -1,0 +1,29 @@
+_repo: The-Life-and-Voyages-of-Christopher-Columbus--Volume-II-_8519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8519'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Spanish'
+- !lcsh 'Explorers -- America -- Biography'
+- !lcsh 'Columbus, Christopher'
+- !lcc 'E011'
+- !lcsh 'Explorers -- Spain -- Biography'
+- GITenberg
+title: The Life and Voyages of Christopher Columbus (Volume II)
+url: http://www.gutenberg.org/ebooks/8519
